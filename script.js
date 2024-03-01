@@ -10,5 +10,5 @@ function copyBackgroundColor() {
   .catch(() => alert('Failed to copy color'));
  }
 
-document.getElementById('colorChanger').addEventListener('click', changeBackgroundColor);
-document.getElementById('copyColor').addEventListener('click', copyBackgroundColor);
+//document.getElementById('colorChanger').addEventListener('click', changeBackgroundColor);
+//document.getElementById('copyColor').addEventListener('click', copyBackgroundColor);
